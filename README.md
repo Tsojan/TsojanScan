@@ -141,6 +141,14 @@
 
 </br>
 
+### Thanks
+
+部分代码参考来源：
+https://github.com/pmiaowu/BurpShiroPassiveScan
+https://github.com/pmiaowu/BurpFastJsonScan
+https://github.com/l1ubai/GyScan
+https://github.com/whwlsfb/Log4j2Scan
+
 ### END
 
  欢迎各位师傅提Issue。。。
