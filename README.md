@@ -13,6 +13,8 @@
 #### 2、功能介绍
 #### （1）面板
 <img src="https://user-images.githubusercontent.com/48227194/208301144-5f383e49-f205-4c6f-8a49-9d43e93be417.png" width="40%" height="40%"/>
+
+自定义黑名单，插件不扫描黑名单的url列表，进行Reg匹配优先级第一。
 <img src="https://user-images.githubusercontent.com/48227194/208301777-9b2cfbd9-32b6-4d49-8bfa-ac656f6c11e3.png" width="40%" height="40%"/>
 </br>
 
