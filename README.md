@@ -59,6 +59,18 @@
 
 ### Update
 
+#### 更新说明 - v1.4.2
+
+1.增加Ceye dnslog平台，默认加载为Microsoftz，需要手动加载Ceye后，下次再打开将自动加载上次Apply应用的dnslog。
+
+2.优化添加配置设置不显示插件的bug。
+
+<img src="https://user-images.githubusercontent.com/48227194/219374135-69de3b1f-1721-44b4-a6e9-fd85d87baf1c.png"  width="80%" height="80%"/>
+
+
+<img src="https://user-images.githubusercontent.com/48227194/219374032-1520df53-e171-4e8f-81f9-a527267fa727.png"  width="80%" height="80%"/>
+
+
 #### 更新说明 - v1.4.1
 
 1. 修复dnslog平台，更换api接口。
