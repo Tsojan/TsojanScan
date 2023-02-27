@@ -59,6 +59,16 @@
 
 ### Update
 
+#### 更新说明 - v1.4.3
+
+1. 修复首次加载插件占用过多资源的问题造成假死进程状态。
+
+2. 增加dnslog：DNSlog平台Xssx1，首次加载插件使用Ceye，后续启动则默认使用上次应用的dnslog，若网络环境较好，推荐使用Xssx1、Microsoftz方式。
+
+3. 增加主动/被动 Ueditor .net 文件上传扫描模块。
+
+
+
 #### 更新说明 - v1.4.2
 
 1.增加Ceye dnslog平台，默认加载为Microsoftz，需要手动加载Ceye后，下次再打开将自动加载上次Apply应用的dnslog。
