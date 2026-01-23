@@ -59,6 +59,15 @@
 
 ### Update
 
+#### 更新说明 - v2.0.0-Beta1
+
+- 重构 TsojanScan 插件框架代码 适配2026年 BurpSuite 新版 MontoyaApi api；
+- 重构 TsojanScan 模块框架，优化 UI 框架；
+- 新增 Scanning Status 模块，增加BurpAPI、OkHttp引擎驱动，性能爆炸；
+- 新增 Burp Collaborator官方 DNSlog平台；
+- 使用 JDK 21 版本编译；
+- 优化相关漏洞检测逻辑。
+
 #### 更新说明 - v1.4.6
 
 1. 新增XyzDnsLog平台，删除不可用的DnsLog，由于国内政策问题，建议使用Ceye dnslog平台;
