@@ -59,6 +59,14 @@
 
 ### Update
 
+#### 更新说明 - v2.0.0-Beta2
+
+- 新增vulPanel表格添加右键选项，可以删除，清理所有数据并导出数据为csv和html
+- 新增几个DNSlog服务商（Eyes,requestrepo,DigPM，当前默认Eyes，推荐优先使用Eyes
+- 修复fastjson主动和被动扫描不工作
+- 修复上一个beta版本扫描带有X-Tsojan-Scanner: true请求头指纹
+- 继续优化相关漏洞检测逻辑。
+
 #### 更新说明 - v2.0.0-Beta1
 
 - 重构 TsojanScan 插件框架代码 适配2026年 BurpSuite 新版 MontoyaApi api；
