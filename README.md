@@ -66,6 +66,16 @@
 
 <img width="596" height="431" alt="image" src="https://github.com/user-attachments/assets/ce088e0a-e555-4c0c-8f1c-525d789f0297" />
 
+#### requestrepo
+
+https://dnslog.requestrepo.com/requests
+...待更新
+
+
+#### dig
+https://dig.pm/
+...待更新
+
 ### Update
 
 #### 更新说明 - v2.0.0-Beta2
