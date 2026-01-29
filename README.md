@@ -57,6 +57,15 @@
 <img src="https://user-images.githubusercontent.com/48227194/208301319-4371383e-122c-4608-8dd2-781bfe6905f6.png" width="80%" height="80%"/>
 </br>
 
+### dnslog config
+#### eyes
+访问https://eyes.sh/config/ ，并注册账号，访问API，复制其中的子域名和Token，填写到插件配置中：
+<img width="1120" height="169" alt="image" src="https://github.com/user-attachments/assets/7c8adb38-b29c-4e14-b1eb-4e03447243cf" />
+
+配置如下：
+
+<img width="596" height="431" alt="image" src="https://github.com/user-attachments/assets/ce088e0a-e555-4c0c-8f1c-525d789f0297" />
+
 ### Update
 
 #### 更新说明 - v2.0.0-Beta2
