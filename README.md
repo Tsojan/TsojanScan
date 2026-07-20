@@ -66,19 +66,10 @@
 
 <img width="596" height="431" alt="image" src="https://github.com/user-attachments/assets/ce088e0a-e555-4c0c-8f1c-525d789f0297" />
 
-#### requestrepo
-
-https://dnslog.requestrepo.com/requests
-...待更新
-
-
-#### dig
-https://dig.pm/
-...待更新
 
 ### Update
 #### 更新说明 - v2.0.0
-- 默认jdk更改为17并兼容到最新版jdk 26
+- 提高兼容性，默认jdk更改为17并兼容到最新版jdk 26
 - 重点修复了众多bug...
 - 新增 Jeecg-Boot 扫描器
 - 优化了一下 SQL 注入扫描器
