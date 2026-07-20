@@ -77,6 +77,14 @@ https://dig.pm/
 ...待更新
 
 ### Update
+#### 更新说明 - v2.0.0
+- 默认jdk更改为17并兼容到最新版jdk 26
+- 重点修复了众多bug...
+- 新增 Jeecg-Boot 扫描器
+- 优化了一下 SQL 注入扫描器
+- 优化了一下fastjson扫描器payload和扫描逻辑，Fastjson Issue 标题直接显示精确版本或推断区间。
+- dnslog默认为callback.red，无需任何配置，开箱即用
+- 重构了插件整体架构，在不影响扫描逻辑的情况下，优化了大量漏洞检测逻辑
 
 #### 更新说明 - v2.0.0-Beta2
 
